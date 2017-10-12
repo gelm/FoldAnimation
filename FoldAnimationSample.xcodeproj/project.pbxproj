@@ -61,6 +61,7 @@
 		3A2BA00E1F8F0944008D4480 /* JHYearListCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JHYearListCell.m; sourceTree = "<group>"; };
 		3A2BA00F1F8F0944008D4480 /* JHYearListView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JHYearListView.h; sourceTree = "<group>"; };
 		3A2BA0101F8F0944008D4480 /* JHYearListView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JHYearListView.m; sourceTree = "<group>"; };
+		3A2BA0141F8F460E008D4480 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +92,7 @@
 		3A2B9FCB1F8F08A6008D4480 = {
 			isa = PBXGroup;
 			children = (
+				3A2BA0141F8F460E008D4480 /* README.md */,
 				3A2B9FD61F8F08A6008D4480 /* FoldAnimationSample */,
 				3A2B9FEF1F8F08A6008D4480 /* FoldAnimationSampleTests */,
 				3A2B9FFA1F8F08A6008D4480 /* FoldAnimationSampleUITests */,
